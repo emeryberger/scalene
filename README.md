@@ -14,6 +14,8 @@ by [Emery Berger](https://emeryberger.com), [Sam Stern](https://samstern.me/), a
 
 ![Semantic Scholar success story](https://github.com/plasma-umass/scalene/raw/master/docs/semantic-scholar-success.png)
 
+[_Python Profiler Links to AI to Improve Code Scalene identifies inefficiencies and asks GPT-4 for suggestions_](https://spectrum.ieee.org/python-programming), IEEE Spectrum
+
 ## About Scalene
 
 Scalene is a high-performance CPU, GPU *and* memory profiler for
